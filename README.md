@@ -8,7 +8,7 @@ This is a lightweight [Streamlit](https://streamlit.io) app that allows users to
 
 ## 📂 How to Use
 
-1. Go to the deployed app 
+1. Go to the deployed app: https://gkbtesting-eufvg5owzzxbya55hxlpzn.streamlit.app/
 2. Upload your image(s) using the file uploader
 3. Click **"Show Image"**
 4. See the dimensions listed below
