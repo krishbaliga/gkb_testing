@@ -8,7 +8,7 @@ This is a lightweight [Streamlit](https://streamlit.io) app that allows users to
 
 ## 📂 How to Use
 
-1. Go to the deployed app: [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app) *(replace with actual URL)*
+1. Go to the deployed app 
 2. Upload your image(s) using the file uploader
 3. Click **"Show Image"**
 4. See the dimensions listed below
@@ -18,16 +18,3 @@ This is a lightweight [Streamlit](https://streamlit.io) app that allows users to
 - Python
 - Streamlit
 - Pillow (PIL)
-
-## 💻 Local Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/gb2219/gkb_testing.git
-cd gkb_testing
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
