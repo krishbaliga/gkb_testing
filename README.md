@@ -1,5 +1,3 @@
-# gkb_testing# 
-
 This is a lightweight [Streamlit](https://streamlit.io) app that allows users to upload one or more image files and view their dimensions (width × height in pixels).
 
 ## 🚀 Features
