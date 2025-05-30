@@ -7,7 +7,8 @@ if st.button("Show Image"):
         for file in uploaded_files:
             def process_images(img):
                 return img.size
-            res = process_images(Image.open(file))
-            st.write(f"{file.name} - {res}")
+            image = Image.open(file)
+            size = process_images(image)
+            st.image(image, caption=f"{file.name} - Size: {size}")
     else:
         st.warning("No Files Uploaded")
