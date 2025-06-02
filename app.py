@@ -3,8 +3,6 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-st.title("Image API Test with Simulated Edits")
-
 grayscale = st.checkbox("Apply Grayscale Filter")
 
 uploaded_files = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"], accept_multiple_files=True)
