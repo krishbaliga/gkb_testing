@@ -3,9 +3,9 @@ https://gkbtesting-eufvg5owzzxbya55hxlpzn.streamlit.app/
 2. Click **"Show Image"**
 3. API will match with greyscale (size)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
-- requestrs
+- requests
 - Pillow (PIL)
